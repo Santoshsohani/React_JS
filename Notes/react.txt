@@ -1,0 +1,18 @@
+The folder and file strcuture
+-----------------------------
+
+package.json - The blueprint of the entire application which contains the dependecies, scripts and applications metadata
+
+public - Used to add configurations, images, logos and even CSS
+
+node modules - This is the installed files and folder created using npm
+
+src - contains all the source code of the application like components
+
+index.html - Contains a div with a id named root which gets wrapped by html,css & js
+
+
+Build Command in React js
+-------------------------
+The build command is used to create an optimized production build of your React application. It compiles the source code and converts it into static files that can be deployed to a web server.
+
